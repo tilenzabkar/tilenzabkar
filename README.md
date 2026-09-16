@@ -13,4 +13,4 @@ This is where I keep some of my university projects, programming assignments, an
 
 Other repositories are private. More repositories will be added over time.
 
-You can also find me on [LinkedIn](linkedin.com/in/tilen-žabkar-0b126338b).
+You can also find me on [LinkedIn](https://www.linkedin.com/in/tilen-žabkar-0b126338b).
