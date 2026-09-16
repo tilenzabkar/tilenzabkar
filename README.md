@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**tilenzabkar/tilenzabkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tilen, a Mathematics MSc student at the Technical University of Munich. I'm interested in mathematics, statistics, data analysis and programming.
 
-Here are some ideas to get you started:
+This is where I keep some of my university projects, programming assignments, and other things I've worked on.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- [**Web application for competing with friends in running**](https://github.com/tilenzabkar/OPB-RunDuel)
+- [**Analysis of Graphs with Odd Independent Sets of Size 1**](https://github.com/tilenzabkar/fp-projekt)
+- [**Web Data Scraping and Analysis of Slovenian Mountains**](https://github.com/tilenzabkar/uvp-projektna-naloga)
+- [**R homework 1**](https://github.com/tilenzabkar/appr-dn1)
+- [**R homework 2**](https://github.com/tilenzabkar/appr-dn2)
+
+Other repositories are private. More repositories will be added over time.
+
+You can also find me on [LinkedIn](linkedin.com/in/tilen-žabkar-0b126338b).
